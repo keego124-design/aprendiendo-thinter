@@ -100,8 +100,8 @@ A continuación se detalla la función, conceptos clave y widgets implementados 
 
 1. **Clonar este repositorio:**
    ```bash
-   git clone https://github.com/keego124-design/aprendiendo-tkinter.git
-   cd aprendiendo-tkinter
+   git clone https://github.com/keego124-design/aprendiendo-thinter.git
+   cd aprendiendo-thinter
    ```
 
 2. **Ejecutar cualquiera de los ejemplos:**
